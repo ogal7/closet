@@ -23,7 +23,7 @@ class MazeSolver {
     final private char EXIT =         '$';
     final private char VISITED_PATH = '.';
 
-
+ 
     public MazeSolver( String inputFile ) {
 
 	//init 2D array to represent maze 
